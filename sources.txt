@@ -1,0 +1,17 @@
+Sources:
+https://www.youtube.com/watch?v=gP4PqVGudtg
+http://www.infosecwriters.com/text_resources/pdf/AESbyExample.pdf
+https://crypto.stackexchange.com/questions/2402/how-to-solve-mixcolumns/2403
+http://www.angelfire.com/biz7/atleast/mix_columns.pdf
+https://dinus.ac.id/repository/docs/ajar/20120111_mix_columns_file_2013-0604_123623_aisyatul_karima_s.kom_m.cs__.pdf
+https://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2017-2018/Advanced-Encryption-Standard-(AES)(2018).pdf
+https://www.comparitech.com/blog/information-security/what-is-aes-encryption/
+https://www.commonlounge.com/discussion/e32fdd267aaa4240a4464723bc74d0a5
+https://dinus.ac.id/repository/docs/ajar/20120111_mix_columns_file_2013-0604_123623_aisyatul_karima_s.kom_m.cs__.pdf
+https://jhafranco.com/2012/01/16/aes-implementation-in-python/
+https://gist.github.com/gustavohenrique/79cc95cc351d975a075f18a5c9f49319
+https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf
+https://github.com/pcaro90/Python-AES/blob/master/AES.py
+http://studyinformatics.blogspot.com/2012/07/aes-advanced-encryption-standard.html
+http://kriptografijaringan.blogspot.com/2016/03/enkripsi-algoritma-aes-advanced.html
+http://herwingoernia19.blogspot.com/2013/12/kriptografi-metode-algoritma-aes.html
